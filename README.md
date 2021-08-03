@@ -1,4 +1,4 @@
-# Creating Items with Redux
+npm s# Creating Items with Redux
 
 ## Introduction
 
